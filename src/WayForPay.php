@@ -1,6 +1,6 @@
 <?php
 
-namespace Tima\WayForPay;
+namespace Venom;
 
 class WayForPay
 {
